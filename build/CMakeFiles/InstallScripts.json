@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/cmake_install.cmake",
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
