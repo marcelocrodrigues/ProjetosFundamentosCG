@@ -1,6 +1,12 @@
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/HelloTriangle.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex5.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex8.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6a.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6c.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6d.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex7.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex9.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/edit_cache.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/rebuild_cache.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/list_install_components.dir

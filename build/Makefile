@@ -207,6 +207,84 @@ Ex8/fast:
 .PHONY : Ex8/fast
 
 #=============================================================================
+# Target rules for targets named Ex6
+
+# Build rule for target.
+Ex6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6
+.PHONY : Ex6
+
+# fast build rule for target.
+Ex6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/build
+.PHONY : Ex6/fast
+
+#=============================================================================
+# Target rules for targets named Ex6a
+
+# Build rule for target.
+Ex6a: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6a
+.PHONY : Ex6a
+
+# fast build rule for target.
+Ex6a/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/build
+.PHONY : Ex6a/fast
+
+#=============================================================================
+# Target rules for targets named Ex6c
+
+# Build rule for target.
+Ex6c: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6c
+.PHONY : Ex6c
+
+# fast build rule for target.
+Ex6c/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/build
+.PHONY : Ex6c/fast
+
+#=============================================================================
+# Target rules for targets named Ex6d
+
+# Build rule for target.
+Ex6d: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6d
+.PHONY : Ex6d
+
+# fast build rule for target.
+Ex6d/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/build
+.PHONY : Ex6d/fast
+
+#=============================================================================
+# Target rules for targets named Ex7
+
+# Build rule for target.
+Ex7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex7
+.PHONY : Ex7
+
+# fast build rule for target.
+Ex7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/build
+.PHONY : Ex7/fast
+
+#=============================================================================
+# Target rules for targets named Ex9
+
+# Build rule for target.
+Ex9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex9
+.PHONY : Ex9
+
+# fast build rule for target.
+Ex9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/build
+.PHONY : Ex9/fast
+
+#=============================================================================
 # Target rules for targets named uninstall
 
 # Build rule for target.
@@ -266,6 +344,12 @@ common/glad.c.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.obj
 .PHONY : common/glad.c.obj
 
 common/glad.i: common/glad.c.i
@@ -276,6 +360,12 @@ common/glad.c.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.i
 .PHONY : common/glad.c.i
 
 common/glad.s: common/glad.c.s
@@ -286,6 +376,12 @@ common/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.s
 .PHONY : common/glad.c.s
 
 src/Exercicios/HelloTriangle.obj: src/Exercicios/HelloTriangle.cpp.obj
@@ -336,6 +432,126 @@ src/Exercicios/Lista1/Ex5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/src/Exercicios/Lista1/Ex5.cpp.s
 .PHONY : src/Exercicios/Lista1/Ex5.cpp.s
 
+src/Exercicios/Lista1/Ex6.obj: src/Exercicios/Lista1/Ex6.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/src/Exercicios/Lista1/Ex6.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6.cpp.obj
+
+src/Exercicios/Lista1/Ex6.i: src/Exercicios/Lista1/Ex6.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/src/Exercicios/Lista1/Ex6.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6.cpp.i
+
+src/Exercicios/Lista1/Ex6.s: src/Exercicios/Lista1/Ex6.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/src/Exercicios/Lista1/Ex6.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6.cpp.s
+
+src/Exercicios/Lista1/Ex6a.obj: src/Exercicios/Lista1/Ex6a.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6a.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex6a.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/src/Exercicios/Lista1/Ex6a.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6a.cpp.obj
+
+src/Exercicios/Lista1/Ex6a.i: src/Exercicios/Lista1/Ex6a.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6a.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex6a.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/src/Exercicios/Lista1/Ex6a.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6a.cpp.i
+
+src/Exercicios/Lista1/Ex6a.s: src/Exercicios/Lista1/Ex6a.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6a.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex6a.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/src/Exercicios/Lista1/Ex6a.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6a.cpp.s
+
+src/Exercicios/Lista1/Ex6c.obj: src/Exercicios/Lista1/Ex6c.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6c.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex6c.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6c.cpp.obj
+
+src/Exercicios/Lista1/Ex6c.i: src/Exercicios/Lista1/Ex6c.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6c.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex6c.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6c.cpp.i
+
+src/Exercicios/Lista1/Ex6c.s: src/Exercicios/Lista1/Ex6c.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6c.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex6c.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6c.cpp.s
+
+src/Exercicios/Lista1/Ex6d.obj: src/Exercicios/Lista1/Ex6d.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6d.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex6d.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/src/Exercicios/Lista1/Ex6d.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex6d.cpp.obj
+
+src/Exercicios/Lista1/Ex6d.i: src/Exercicios/Lista1/Ex6d.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6d.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex6d.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/src/Exercicios/Lista1/Ex6d.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex6d.cpp.i
+
+src/Exercicios/Lista1/Ex6d.s: src/Exercicios/Lista1/Ex6d.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6d.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex6d.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/src/Exercicios/Lista1/Ex6d.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex6d.cpp.s
+
+src/Exercicios/Lista1/Ex7.obj: src/Exercicios/Lista1/Ex7.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex7.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/src/Exercicios/Lista1/Ex7.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex7.cpp.obj
+
+src/Exercicios/Lista1/Ex7.i: src/Exercicios/Lista1/Ex7.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex7.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/src/Exercicios/Lista1/Ex7.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex7.cpp.i
+
+src/Exercicios/Lista1/Ex7.s: src/Exercicios/Lista1/Ex7.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex7.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/src/Exercicios/Lista1/Ex7.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex7.cpp.s
+
 src/Exercicios/Lista1/Ex8.obj: src/Exercicios/Lista1/Ex8.cpp.obj
 .PHONY : src/Exercicios/Lista1/Ex8.obj
 
@@ -360,6 +576,30 @@ src/Exercicios/Lista1/Ex8.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/src/Exercicios/Lista1/Ex8.cpp.s
 .PHONY : src/Exercicios/Lista1/Ex8.cpp.s
 
+src/Exercicios/Lista1/Ex9.obj: src/Exercicios/Lista1/Ex9.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex9.obj
+
+# target to build an object file
+src/Exercicios/Lista1/Ex9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/src/Exercicios/Lista1/Ex9.cpp.obj
+.PHONY : src/Exercicios/Lista1/Ex9.cpp.obj
+
+src/Exercicios/Lista1/Ex9.i: src/Exercicios/Lista1/Ex9.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex9.i
+
+# target to preprocess a source file
+src/Exercicios/Lista1/Ex9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/src/Exercicios/Lista1/Ex9.cpp.i
+.PHONY : src/Exercicios/Lista1/Ex9.cpp.i
+
+src/Exercicios/Lista1/Ex9.s: src/Exercicios/Lista1/Ex9.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex9.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista1/Ex9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/src/Exercicios/Lista1/Ex9.cpp.s
+.PHONY : src/Exercicios/Lista1/Ex9.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -376,7 +616,13 @@ help:
 	@echo ... uninstall
 	@echo ... update_mappings
 	@echo ... Ex5
+	@echo ... Ex6
+	@echo ... Ex6a
+	@echo ... Ex6c
+	@echo ... Ex6d
+	@echo ... Ex7
 	@echo ... Ex8
+	@echo ... Ex9
 	@echo ... HelloTriangle
 	@echo ... glfw
 	@echo ... glm
@@ -389,9 +635,27 @@ help:
 	@echo ... src/Exercicios/Lista1/Ex5.obj
 	@echo ... src/Exercicios/Lista1/Ex5.i
 	@echo ... src/Exercicios/Lista1/Ex5.s
+	@echo ... src/Exercicios/Lista1/Ex6.obj
+	@echo ... src/Exercicios/Lista1/Ex6.i
+	@echo ... src/Exercicios/Lista1/Ex6.s
+	@echo ... src/Exercicios/Lista1/Ex6a.obj
+	@echo ... src/Exercicios/Lista1/Ex6a.i
+	@echo ... src/Exercicios/Lista1/Ex6a.s
+	@echo ... src/Exercicios/Lista1/Ex6c.obj
+	@echo ... src/Exercicios/Lista1/Ex6c.i
+	@echo ... src/Exercicios/Lista1/Ex6c.s
+	@echo ... src/Exercicios/Lista1/Ex6d.obj
+	@echo ... src/Exercicios/Lista1/Ex6d.i
+	@echo ... src/Exercicios/Lista1/Ex6d.s
+	@echo ... src/Exercicios/Lista1/Ex7.obj
+	@echo ... src/Exercicios/Lista1/Ex7.i
+	@echo ... src/Exercicios/Lista1/Ex7.s
 	@echo ... src/Exercicios/Lista1/Ex8.obj
 	@echo ... src/Exercicios/Lista1/Ex8.i
 	@echo ... src/Exercicios/Lista1/Ex8.s
+	@echo ... src/Exercicios/Lista1/Ex9.obj
+	@echo ... src/Exercicios/Lista1/Ex9.i
+	@echo ... src/Exercicios/Lista1/Ex9.s
 .PHONY : help
 
 
