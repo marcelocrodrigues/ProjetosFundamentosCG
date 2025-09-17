@@ -285,6 +285,32 @@ Ex9/fast:
 .PHONY : Ex9/fast
 
 #=============================================================================
+# Target rules for targets named HelloOrtho
+
+# Build rule for target.
+HelloOrtho: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 HelloOrtho
+.PHONY : HelloOrtho
+
+# fast build rule for target.
+HelloOrtho/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/build
+.PHONY : HelloOrtho/fast
+
+#=============================================================================
+# Target rules for targets named Exercicio5
+
+# Build rule for target.
+Exercicio5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Exercicio5
+.PHONY : Exercicio5
+
+# fast build rule for target.
+Exercicio5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/build
+.PHONY : Exercicio5/fast
+
+#=============================================================================
 # Target rules for targets named uninstall
 
 # Build rule for target.
@@ -350,6 +376,8 @@ common/glad.c.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.obj
 .PHONY : common/glad.c.obj
 
 common/glad.i: common/glad.c.i
@@ -366,6 +394,8 @@ common/glad.c.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.i
 .PHONY : common/glad.c.i
 
 common/glad.s: common/glad.c.s
@@ -382,6 +412,8 @@ common/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.s
 .PHONY : common/glad.c.s
 
 src/Exercicios/HelloTriangle.obj: src/Exercicios/HelloTriangle.cpp.obj
@@ -600,6 +632,54 @@ src/Exercicios/Lista1/Ex9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/src/Exercicios/Lista1/Ex9.cpp.s
 .PHONY : src/Exercicios/Lista1/Ex9.cpp.s
 
+src/Exercicios/Lista2/Exercicio5.obj: src/Exercicios/Lista2/Exercicio5.cpp.obj
+.PHONY : src/Exercicios/Lista2/Exercicio5.obj
+
+# target to build an object file
+src/Exercicios/Lista2/Exercicio5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/src/Exercicios/Lista2/Exercicio5.cpp.obj
+.PHONY : src/Exercicios/Lista2/Exercicio5.cpp.obj
+
+src/Exercicios/Lista2/Exercicio5.i: src/Exercicios/Lista2/Exercicio5.cpp.i
+.PHONY : src/Exercicios/Lista2/Exercicio5.i
+
+# target to preprocess a source file
+src/Exercicios/Lista2/Exercicio5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/src/Exercicios/Lista2/Exercicio5.cpp.i
+.PHONY : src/Exercicios/Lista2/Exercicio5.cpp.i
+
+src/Exercicios/Lista2/Exercicio5.s: src/Exercicios/Lista2/Exercicio5.cpp.s
+.PHONY : src/Exercicios/Lista2/Exercicio5.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista2/Exercicio5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/src/Exercicios/Lista2/Exercicio5.cpp.s
+.PHONY : src/Exercicios/Lista2/Exercicio5.cpp.s
+
+src/Exercicios/Lista2/HelloOrtho.obj: src/Exercicios/Lista2/HelloOrtho.cpp.obj
+.PHONY : src/Exercicios/Lista2/HelloOrtho.obj
+
+# target to build an object file
+src/Exercicios/Lista2/HelloOrtho.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/src/Exercicios/Lista2/HelloOrtho.cpp.obj
+.PHONY : src/Exercicios/Lista2/HelloOrtho.cpp.obj
+
+src/Exercicios/Lista2/HelloOrtho.i: src/Exercicios/Lista2/HelloOrtho.cpp.i
+.PHONY : src/Exercicios/Lista2/HelloOrtho.i
+
+# target to preprocess a source file
+src/Exercicios/Lista2/HelloOrtho.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/src/Exercicios/Lista2/HelloOrtho.cpp.i
+.PHONY : src/Exercicios/Lista2/HelloOrtho.cpp.i
+
+src/Exercicios/Lista2/HelloOrtho.s: src/Exercicios/Lista2/HelloOrtho.cpp.s
+.PHONY : src/Exercicios/Lista2/HelloOrtho.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista2/HelloOrtho.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/src/Exercicios/Lista2/HelloOrtho.cpp.s
+.PHONY : src/Exercicios/Lista2/HelloOrtho.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -623,6 +703,8 @@ help:
 	@echo ... Ex7
 	@echo ... Ex8
 	@echo ... Ex9
+	@echo ... Exercicio5
+	@echo ... HelloOrtho
 	@echo ... HelloTriangle
 	@echo ... glfw
 	@echo ... glm
@@ -656,6 +738,12 @@ help:
 	@echo ... src/Exercicios/Lista1/Ex9.obj
 	@echo ... src/Exercicios/Lista1/Ex9.i
 	@echo ... src/Exercicios/Lista1/Ex9.s
+	@echo ... src/Exercicios/Lista2/Exercicio5.obj
+	@echo ... src/Exercicios/Lista2/Exercicio5.i
+	@echo ... src/Exercicios/Lista2/Exercicio5.s
+	@echo ... src/Exercicios/Lista2/HelloOrtho.obj
+	@echo ... src/Exercicios/Lista2/HelloOrtho.i
+	@echo ... src/Exercicios/Lista2/HelloOrtho.s
 .PHONY : help
 
 

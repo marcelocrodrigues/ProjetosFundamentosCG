@@ -131,6 +131,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Ex6d.dir/DependInfo.cmake"
   "CMakeFiles/Ex7.dir/DependInfo.cmake"
   "CMakeFiles/Ex9.dir/DependInfo.cmake"
+  "CMakeFiles/HelloOrtho.dir/DependInfo.cmake"
+  "CMakeFiles/Exercicio5.dir/DependInfo.cmake"
   "_deps/glfw-build/CMakeFiles/uninstall.dir/DependInfo.cmake"
   "_deps/glfw-build/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   "_deps/glfw-build/src/CMakeFiles/update_mappings.dir/DependInfo.cmake"
