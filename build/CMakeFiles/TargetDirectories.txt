@@ -7,6 +7,8 @@ C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6c.di
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex6d.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex7.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Ex9.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/HelloOrtho.dir
+C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/Exercicio5.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/edit_cache.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/rebuild_cache.dir
 C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/list_install_components.dir

@@ -133,7 +133,7 @@ int main()
     GLuint shaderID = setupShader();
 
     // Gerando um buffer simples, com a geometria de um triângulo
-    int nPoints = 30;
+    int nPoints = 60;
 
     GLuint VAO = createCircle(nPoints);
 
@@ -189,13 +189,13 @@ int main()
 
         // Chamada de desenho - drawcall
         // Poligono Preenchido - GL_TRIANGLES
-        //glDrawArrays(GL_TRIANGLE_FAN, 0, nVertices);
+        // glDrawArrays(GL_TRIANGLE_FAN, 0, nVertices);
 
-        glUniform4f(colorLoc, 1.0f, 0.0f, 1.0f, 1.0f);
+        glUniform4f(colorLoc, 1.0f, 0.0f, 0.0f, 0.0f);
         glDrawArrays(GL_LINE_LOOP, 1, nVertices - 2);
 
         glUniform4f(colorLoc, 1.0f, 1.0f, 0.0f, 1.0f);
-        //glDrawArrays(GL_POINTS, 0, nVertices);
+        // glDrawArrays(GL_POINTS, 0, nVertices);
 
         // glBindVertexArray(0); // Desnecessário aqui, pois não há múltiplos VAOs
 
@@ -324,14 +324,13 @@ int setupGeometry()
     return VAO;
 }
 
-
-
 int createCircle(int nPoints, float radius)
 {
     vector<GLfloat> vertices;
+    radius = 0.3;
 
-    float angle = 0.2;
-    float slice = 1.5 * Pi / (float)nPoints;
+    float angle = 0.3;
+    float slice = 7 * Pi / (float)nPoints;
 
     // Adicionar o ponto da origem (0.0, 0.0, 0.0) como sendo o centro do circulo
     vertices.push_back(0.0); // Xc
@@ -348,6 +347,7 @@ int createCircle(int nPoints, float radius)
         vertices.push_back(y);
         vertices.push_back(z);
 
+        radius += 0.01;
         angle = angle + slice;
     }
 

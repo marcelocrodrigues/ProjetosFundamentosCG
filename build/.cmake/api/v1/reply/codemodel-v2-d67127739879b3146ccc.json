@@ -1,0 +1,297 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"build" : "_deps/glfw-build",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.glfw-build-Debug-b93fa28dac9f6fabcd16.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "_deps/glfw-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.glfw-build.src-Debug-68994cfd01b0201ce181.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src/src",
+					"targetIndexes" : 
+					[
+						11,
+						14
+					]
+				},
+				{
+					"build" : "_deps/glfw-build/docs",
+					"jsonFile" : "directory-_deps.glfw-build.docs-Debug-2a9a68e502908e73230e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src/docs"
+				},
+				{
+					"build" : "_deps/glm-build",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-_deps.glm-build-Debug-935468e39a55af38ff33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "build/_deps/glm-src"
+				},
+				{
+					"build" : "_deps/glm-build/glm",
+					"jsonFile" : "directory-_deps.glm-build.glm-Debug-ae6a6ae02e317224d57b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "build/_deps/glm-src/glm",
+					"targetIndexes" : 
+					[
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FCG2025-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "glm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex5-Debug-e2339b6b41f3b3a25a8e.json",
+					"name" : "Ex5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex6-Debug-b2f34ce57817351a0193.json",
+					"name" : "Ex6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex6a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex6a-Debug-89063abb877a506140fd.json",
+					"name" : "Ex6a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex6c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex6c-Debug-6edc909e1974a763ee89.json",
+					"name" : "Ex6c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex6d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex6d-Debug-2e00681b263a1fbb248d.json",
+					"name" : "Ex6d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex7-Debug-dacc89bcef30d1f3d6f1.json",
+					"name" : "Ex7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex8-Debug-63e7e06d13a636616d65.json",
+					"name" : "Ex8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex9-Debug-a3f7ff9b76caed54093c.json",
+					"name" : "Ex9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercicio5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercicio5-Debug-45ac3dfdfaf431ee8ab3.json",
+					"name" : "Exercicio5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloOrtho::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloOrtho-Debug-1f53b79e999084936c99.json",
+					"name" : "HelloOrtho",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloTriangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloTriangle-Debug-490c9b937ae674510bf7.json",
+					"name" : "HelloTriangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@fa9f4482d3a2b070f206",
+					"jsonFile" : "target-glfw-Debug-3512da37457e5a1ce85b.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "glm::@ce54d98d7b326a3e12a8",
+					"jsonFile" : "target-glm-Debug-7d7f3ccf340a6d928718.json",
+					"name" : "glm",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@369fad943889a5ec39c8",
+					"jsonFile" : "target-uninstall-Debug-e6c87935299c78cf330d.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@fa9f4482d3a2b070f206",
+					"jsonFile" : "target-update_mappings-Debug-2c717f0c41a16d189b92.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
+		"source" : "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
