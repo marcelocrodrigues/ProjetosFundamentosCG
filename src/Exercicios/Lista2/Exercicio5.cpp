@@ -182,12 +182,24 @@ int main()
         // Definindo as dimensões da viewport com as mesmas dimensões da janela da aplicação
         int width, height;
         glfwGetFramebufferSize(window, &width, &height);
-        glViewport(400, 300, 400, 300);
+        glViewport(0, 300, 400, 300);
 
         glBindVertexArray(VAO); // Conectando ao buffer de geometria
 
         // Chamada de desenho - drawcall
         // Poligono Preenchido - GL_TRIANGLES
+        glDrawArrays(GL_TRIANGLES, 0, 6);
+
+        //segundo quadrante
+        glViewport(400, 300, 400, 300);
+        glDrawArrays(GL_TRIANGLES, 0, 6);
+
+        //terceiro quadrante
+        glViewport(0, 0, 400, 300);
+        glDrawArrays(GL_TRIANGLES, 0, 6);
+
+        //quarto quadrante
+        glViewport(400, 0, 400, 300);
         glDrawArrays(GL_TRIANGLES, 0, 6);
 
         glBindVertexArray(0); // Desnecessário aqui, pois não há múltiplos VAOs
@@ -285,15 +297,6 @@ int setupGeometry()
         0.0, 0.0, 0.0, 1.0, 1.0, 0.0,  // v3
         0.5, -0.5, 0.0, 0.0, 1.0, 1.0, // v4
         0.5, 0.5, 0.0, 1.0, 0.0, 1.0   // v5
-
-        //T3
-        -0.5,0.5, 0.0, 1.0, 0.0, 0.0,
-        -0.5, 0.0, 0.0, 0.0, 1.0, 0.0,
-        0.0, 0.0, 0.0, 0.0, 0.0, 1.0
-
-        //T4
-
-
     };
 
     GLuint VBO, VAO;

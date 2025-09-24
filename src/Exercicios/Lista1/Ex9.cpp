@@ -124,7 +124,8 @@ int main()
     GLuint shaderID = setupShader();
 
     // Gerando um buffer simples, com a geometria de um triângulo
-    GLuint VAO = setupGeometry();
+    GLuint VAO1 = setupGeometry();
+    GLuint VAO2 = setupGeometry();
 
     // Enviando a cor desejada (vec4) para o fragment shader
     // Utilizamos a variáveis do tipo uniform em GLSL para armazenar esse tipo de info
@@ -170,21 +171,27 @@ int main()
         glLineWidth(10);
         glPointSize(20);
 
-        glBindVertexArray(VAO); // Conectando ao buffer de geometria
+        // Conectando ao buffer de geometria
+        glBindVertexArray(VAO1);
+        glBindVertexArray(VAO2); 
 
         glUniform4f(colorLoc, 0.0f, 0.0f, 1.0f, 1.0f); // enviando cor para variável uniform inputColor
 
         // Chamada de desenho - drawcall
         // Poligono Preenchido - GL_TRIANGLES
-        glDrawArrays(GL_TRIANGLES, 0, 3);
+        glDrawArrays(GL_TRIANGLES, 0, 6);
 
-        // glBindVertexArray(0); // Desnecessário aqui, pois não há múltiplos VAOs
+        glUniform4f(colorLoc, 0.0f, 1.0f, 0.0f, 1.0f);
+        glDrawArrays(GL_TRIANGLE_FAN, 0, 6);
+        glBindVertexArray(1); // Desnecessário aqui, pois não há múltiplos VAOs
+        glBindVertexArray(2);
 
-        // Troca os buffers da tela
+         // Troca os buffers da tela
         glfwSwapBuffers(window);
     }
     // Pede pra OpenGL desalocar os buffers
-    glDeleteVertexArrays(1, &VAO);
+    glDeleteVertexArrays(1, &VAO1);
+    glDeleteVertexArrays(1, &VAO2);
     // Finaliza a execução da GLFW, limpando os recursos alocados por ela
     glfwTerminate();
     return 0;
@@ -268,23 +275,37 @@ int setupGeometry()
         -0.5, -0.5, 0.0, // v0
         0.5, -0.5, 0.0,  // v1
         0.0, 0.5, 0.0,   // v2
-                         // T1
+    };
+
+    GLfloat vertices2[] = {
+        // x   y     z
+        // T0
+        0.3, 0.3, 0.0, // v0
+        -0.3, 0.3, 0.0,  // v1
+        -0.3, -0.3, 0.0,   // v2
+        0.3, -0.3, 0.0 //v3
+
 
     };
 
-    GLuint VBO, VAO;
+    GLuint vVBO, v2VBO, VAO1, VAO2;
     // Geração do identificador do VBO
-    glGenBuffers(1, &VBO);
+    glGenBuffers(1, &vVBO);
+    glGenBuffers(2, &v2VBO);
     // Faz a conexão (vincula) do buffer como um buffer de array
-    glBindBuffer(GL_ARRAY_BUFFER, VBO);
+    glBindBuffer(GL_ARRAY_BUFFER, vVBO);
+    glBindBuffer(GL_ARRAY_BUFFER, v2VBO);
     // Envia os dados do array de floats para o buffer da OpenGl
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+    glBufferData(GL_ARRAY_BUFFER, sizeof(vertices2), vertices2, GL_STATIC_DRAW);
 
     // Geração do identificador do VAO (Vertex Array Object)
-    glGenVertexArrays(1, &VAO);
+    glGenVertexArrays(1, &VAO1);
+    glGenVertexArrays(2, &VAO2);
     // Vincula (bind) o VAO primeiro, e em seguida  conecta e seta o(s) buffer(s) de vértices
     // e os ponteiros para os atributos
-    glBindVertexArray(VAO);
+    glBindVertexArray(VAO1);
+    glBindVertexArray(VAO2);
     // Para cada atributo do vertice, criamos um "AttribPointer" (ponteiro para o atributo), indicando:
     //  Localização no shader * (a localização dos atributos devem ser correspondentes no layout especificado no vertex shader)
     //  Numero de valores que o atributo tem (por ex, 3 coordenadas xyz)
@@ -294,13 +315,15 @@ int setupGeometry()
     //  Deslocamento a partir do byte zero
     glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(GLfloat), (GLvoid *)0);
     glEnableVertexAttribArray(0);
-
+    glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(GLfloat), (GLvoid *)0);
+    glEnableVertexAttribArray(0);
     // Observe que isso é permitido, a chamada para glVertexAttribPointer registrou o VBO como o objeto de buffer de vértice
     // atualmente vinculado - para que depois possamos desvincular com segurança
-    glBindBuffer(GL_ARRAY_BUFFER, 0);
-
+    glBindBuffer(GL_ARRAY_BUFFER, vVBO);
+    glBindBuffer(GL_ARRAY_BUFFER, v2VBO);
     // Desvincula o VAO (é uma boa prática desvincular qualquer buffer ou array para evitar bugs medonhos)
-    glBindVertexArray(0);
+    glBindVertexArray(VAO1);
+    glBindVertexArray(VAO2);
 
-    return VAO;
+    return VAO1, VAO2;
 }

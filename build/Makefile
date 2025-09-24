@@ -311,6 +311,19 @@ Exercicio5/fast:
 .PHONY : Exercicio5/fast
 
 #=============================================================================
+# Target rules for targets named Exercicio6
+
+# Build rule for target.
+Exercicio6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Exercicio6
+.PHONY : Exercicio6
+
+# fast build rule for target.
+Exercicio6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/build
+.PHONY : Exercicio6/fast
+
+#=============================================================================
 # Target rules for targets named uninstall
 
 # Build rule for target.
@@ -378,6 +391,7 @@ common/glad.c.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/common/glad.c.obj
 .PHONY : common/glad.c.obj
 
 common/glad.i: common/glad.c.i
@@ -396,6 +410,7 @@ common/glad.c.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/common/glad.c.i
 .PHONY : common/glad.c.i
 
 common/glad.s: common/glad.c.s
@@ -414,6 +429,7 @@ common/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/common/glad.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/common/glad.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/common/glad.c.s
 .PHONY : common/glad.c.s
 
 src/Exercicios/HelloTriangle.obj: src/Exercicios/HelloTriangle.cpp.obj
@@ -656,6 +672,30 @@ src/Exercicios/Lista2/Exercicio5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/src/Exercicios/Lista2/Exercicio5.cpp.s
 .PHONY : src/Exercicios/Lista2/Exercicio5.cpp.s
 
+src/Exercicios/Lista2/Exercicio6.obj: src/Exercicios/Lista2/Exercicio6.cpp.obj
+.PHONY : src/Exercicios/Lista2/Exercicio6.obj
+
+# target to build an object file
+src/Exercicios/Lista2/Exercicio6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj
+.PHONY : src/Exercicios/Lista2/Exercicio6.cpp.obj
+
+src/Exercicios/Lista2/Exercicio6.i: src/Exercicios/Lista2/Exercicio6.cpp.i
+.PHONY : src/Exercicios/Lista2/Exercicio6.i
+
+# target to preprocess a source file
+src/Exercicios/Lista2/Exercicio6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.i
+.PHONY : src/Exercicios/Lista2/Exercicio6.cpp.i
+
+src/Exercicios/Lista2/Exercicio6.s: src/Exercicios/Lista2/Exercicio6.cpp.s
+.PHONY : src/Exercicios/Lista2/Exercicio6.s
+
+# target to generate assembly for a file
+src/Exercicios/Lista2/Exercicio6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.s
+.PHONY : src/Exercicios/Lista2/Exercicio6.cpp.s
+
 src/Exercicios/Lista2/HelloOrtho.obj: src/Exercicios/Lista2/HelloOrtho.cpp.obj
 .PHONY : src/Exercicios/Lista2/HelloOrtho.obj
 
@@ -704,6 +744,7 @@ help:
 	@echo ... Ex8
 	@echo ... Ex9
 	@echo ... Exercicio5
+	@echo ... Exercicio6
 	@echo ... HelloOrtho
 	@echo ... HelloTriangle
 	@echo ... glfw
@@ -741,6 +782,9 @@ help:
 	@echo ... src/Exercicios/Lista2/Exercicio5.obj
 	@echo ... src/Exercicios/Lista2/Exercicio5.i
 	@echo ... src/Exercicios/Lista2/Exercicio5.s
+	@echo ... src/Exercicios/Lista2/Exercicio6.obj
+	@echo ... src/Exercicios/Lista2/Exercicio6.i
+	@echo ... src/Exercicios/Lista2/Exercicio6.s
 	@echo ... src/Exercicios/Lista2/HelloOrtho.obj
 	@echo ... src/Exercicios/Lista2/HelloOrtho.i
 	@echo ... src/Exercicios/Lista2/HelloOrtho.s
