@@ -4,6 +4,6 @@ message(VERBOSE "Executing download step for stb_image")
 
 block(SCOPE_FOR VARIABLES)
 
-include("C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/fc-tmp/stb_image/stb_image-gitclone.cmake")
+include("C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/fc-tmp/stb_image/stb_image-gitclone.cmake")
 
 endblock()

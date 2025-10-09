@@ -1,278 +1,278 @@
 [
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/HelloTriangle.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\HelloTriangle.dir\\src\\Exercicios\\HelloTriangle.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\HelloTriangle.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/HelloTriangle.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/HelloTriangle.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\HelloTriangle.dir\\src\\Exercicios\\HelloTriangle.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\HelloTriangle.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/HelloTriangle.cpp",
   "output": "CMakeFiles/HelloTriangle.dir/src/Exercicios/HelloTriangle.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/HelloTriangle.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\HelloTriangle.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/HelloTriangle.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\HelloTriangle.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/HelloTriangle.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex5.dir\\src\\Exercicios\\Lista1\\Ex5.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex5.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex5.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex5.dir\\src\\Exercicios\\Lista1\\Ex5.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex5.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex5.cpp",
   "output": "CMakeFiles/Ex5.dir/src/Exercicios/Lista1/Ex5.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex5.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex5.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex5.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex5.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex5.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex8.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex8.dir\\src\\Exercicios\\Lista1\\Ex8.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex8.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex8.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex8.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex8.dir\\src\\Exercicios\\Lista1\\Ex8.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex8.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex8.cpp",
   "output": "CMakeFiles/Ex8.dir/src/Exercicios/Lista1/Ex8.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex8.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex8.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex8.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex8.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex8.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6.dir\\src\\Exercicios\\Lista1\\Ex6.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6.dir\\src\\Exercicios\\Lista1\\Ex6.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6.cpp",
   "output": "CMakeFiles/Ex6.dir/src/Exercicios/Lista1/Ex6.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex6.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6a.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6a.dir\\src\\Exercicios\\Lista1\\Ex6a.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6a.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6a.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6a.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6a.dir\\src\\Exercicios\\Lista1\\Ex6a.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6a.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6a.cpp",
   "output": "CMakeFiles/Ex6a.dir/src/Exercicios/Lista1/Ex6a.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6a.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6a.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6a.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6a.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex6a.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6c.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6c.dir\\src\\Exercicios\\Lista1\\Ex6c.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6c.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6c.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6c.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6c.dir\\src\\Exercicios\\Lista1\\Ex6c.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6c.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6c.cpp",
   "output": "CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6c.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6c.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6c.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6c.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex6c.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6d.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6d.dir\\src\\Exercicios\\Lista1\\Ex6d.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6d.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6d.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex6d.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex6d.dir\\src\\Exercicios\\Lista1\\Ex6d.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex6d.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6d.cpp",
   "output": "CMakeFiles/Ex6d.dir/src/Exercicios/Lista1/Ex6d.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6d.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6d.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex6d.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex6d.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex6d.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex7.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex7.dir\\src\\Exercicios\\Lista1\\Ex7.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex7.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex7.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex7.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex7.dir\\src\\Exercicios\\Lista1\\Ex7.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex7.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex7.cpp",
   "output": "CMakeFiles/Ex7.dir/src/Exercicios/Lista1/Ex7.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex7.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex7.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex7.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex7.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex7.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex9.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex9.dir\\src\\Exercicios\\Lista1\\Ex9.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex9.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex9.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Ex9.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Ex9.dir\\src\\Exercicios\\Lista1\\Ex9.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista1\\Ex9.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex9.cpp",
   "output": "CMakeFiles/Ex9.dir/src/Exercicios/Lista1/Ex9.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex9.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex9.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Ex9.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Ex9.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Ex9.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/HelloOrtho.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\HelloOrtho.dir\\src\\Exercicios\\Lista2\\HelloOrtho.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\HelloOrtho.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/HelloOrtho.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/HelloOrtho.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\HelloOrtho.dir\\src\\Exercicios\\Lista2\\HelloOrtho.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\HelloOrtho.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/HelloOrtho.cpp",
   "output": "CMakeFiles/HelloOrtho.dir/src/Exercicios/Lista2/HelloOrtho.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/HelloOrtho.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\HelloOrtho.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/HelloOrtho.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\HelloOrtho.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/HelloOrtho.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Exercicio5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Exercicio5.dir\\src\\Exercicios\\Lista2\\Exercicio5.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\Exercicio5.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio5.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Exercicio5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Exercicio5.dir\\src\\Exercicios\\Lista2\\Exercicio5.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\Exercicio5.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio5.cpp",
   "output": "CMakeFiles/Exercicio5.dir/src/Exercicios/Lista2/Exercicio5.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Exercicio5.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Exercicio5.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Exercicio5.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Exercicio5.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Exercicio5.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Exercicio6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Exercicio6.dir\\src\\Exercicios\\Lista2\\Exercicio6.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\Exercicio6.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio6.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Exercicio6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Exercicio6.dir\\src\\Exercicios\\Lista2\\Exercicio6.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\src\\Exercicios\\Lista2\\Exercicio6.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio6.cpp",
   "output": "CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Exercicio6.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Exercicio6.dir\\common\\glad.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Exercicio6.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Exercicio6.dir\\common\\glad.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\common\\glad.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c",
   "output": "CMakeFiles/Exercicio6.dir/common/glad.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\context.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/context.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\context.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/context.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\init.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/init.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\init.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/init.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\input.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/input.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\input.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/input.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\monitor.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/monitor.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\monitor.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/monitor.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\platform.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/platform.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\platform.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/platform.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\vulkan.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/vulkan.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\vulkan.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/vulkan.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\window.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/window.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\window.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/window.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\egl_context.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/egl_context.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\egl_context.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/egl_context.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\osmesa_context.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/osmesa_context.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/osmesa_context.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_init.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_init.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_init.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_init.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_monitor.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_monitor.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_monitor.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_monitor.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_window.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_window.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_window.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_window.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_joystick.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_joystick.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\null_joystick.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/null_joystick.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_module.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_module.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_module.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_module.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_time.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_time.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_time.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_time.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_thread.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_thread.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_thread.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_thread.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_init.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_init.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_init.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_init.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_joystick.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_joystick.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_joystick.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_monitor.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_monitor.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_monitor.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_window.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_window.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\win32_window.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/win32_window.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\wgl_context.c",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/wgl_context.c",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glfw-src\\src\\wgl_context.c",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glfw-src/src/wgl_context.c",
   "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
 },
 {
-  "directory": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-build/glm",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/glm.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c C:\\Users\\Marcelo\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glm-src\\glm\\detail\\glm.cpp",
-  "file": "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-src/glm/detail/glm.cpp",
+  "directory": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-build/glm",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/glm.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c C:\\Users\\marce\\Documents\\GitHub\\ProjetosFundamentosCG\\build\\_deps\\glm-src\\glm\\detail\\glm.cpp",
+  "file": "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/_deps/glm-src/glm/detail/glm.cpp",
   "output": "_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj"
 }
 ]

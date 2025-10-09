@@ -4,6 +4,6 @@ message(VERBOSE "Executing download step for glfw")
 
 block(SCOPE_FOR VARIABLES)
 
-include("C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/fc-tmp/glfw/glfw-gitclone.cmake")
+include("C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/build/CMakeFiles/fc-tmp/glfw/glfw-gitclone.cmake")
 
 endblock()

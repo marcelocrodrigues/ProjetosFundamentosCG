@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c" "CMakeFiles/HelloTriangle.dir/common/glad.c.obj" "gcc" "CMakeFiles/HelloTriangle.dir/common/glad.c.obj.d"
-  "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/HelloTriangle.cpp" "CMakeFiles/HelloTriangle.dir/src/Exercicios/HelloTriangle.cpp.obj" "gcc" "CMakeFiles/HelloTriangle.dir/src/Exercicios/HelloTriangle.cpp.obj.d"
+  "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c" "CMakeFiles/HelloTriangle.dir/common/glad.c.obj" "gcc" "CMakeFiles/HelloTriangle.dir/common/glad.c.obj.d"
+  "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/HelloTriangle.cpp" "CMakeFiles/HelloTriangle.dir/src/Exercicios/HelloTriangle.cpp.obj" "gcc" "CMakeFiles/HelloTriangle.dir/src/Exercicios/HelloTriangle.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

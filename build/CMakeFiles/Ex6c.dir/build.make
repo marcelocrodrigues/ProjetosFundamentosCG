@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG
+CMAKE_SOURCE_DIR = C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build
+CMAKE_BINARY_DIR = C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Ex6c.dir/depend.make
@@ -73,33 +73,33 @@ CMakeFiles/Ex6c.dir/codegen:
 
 CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj: CMakeFiles/Ex6c.dir/flags.make
 CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj: CMakeFiles/Ex6c.dir/includes_CXX.rsp
-CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj: C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6c.cpp
+CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj: C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista1/Ex6c.cpp
 CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj: CMakeFiles/Ex6c.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj -MF CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.obj.d -o CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.obj -c C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.obj -MF CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.obj.d -o CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.obj -c C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp
 
 CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp > CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp > CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.i
 
 CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Ex6c.dir/src/Exercicios/Lista1/Ex6c.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp -o CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\src\Exercicios\Lista1\Ex6c.cpp -o CMakeFiles\Ex6c.dir\src\Exercicios\Lista1\Ex6c.cpp.s
 
 CMakeFiles/Ex6c.dir/common/glad.c.obj: CMakeFiles/Ex6c.dir/flags.make
 CMakeFiles/Ex6c.dir/common/glad.c.obj: CMakeFiles/Ex6c.dir/includes_C.rsp
-CMakeFiles/Ex6c.dir/common/glad.c.obj: C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c
+CMakeFiles/Ex6c.dir/common/glad.c.obj: C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c
 CMakeFiles/Ex6c.dir/common/glad.c.obj: CMakeFiles/Ex6c.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ex6c.dir/common/glad.c.obj"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Ex6c.dir/common/glad.c.obj -MF CMakeFiles\Ex6c.dir\common\glad.c.obj.d -o CMakeFiles\Ex6c.dir\common\glad.c.obj -c C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\common\glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ex6c.dir/common/glad.c.obj"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Ex6c.dir/common/glad.c.obj -MF CMakeFiles\Ex6c.dir\common\glad.c.obj.d -o CMakeFiles\Ex6c.dir\common\glad.c.obj -c C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\common\glad.c
 
 CMakeFiles/Ex6c.dir/common/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Ex6c.dir/common/glad.c.i"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\common\glad.c > CMakeFiles\Ex6c.dir\common\glad.c.i
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\common\glad.c > CMakeFiles\Ex6c.dir\common\glad.c.i
 
 CMakeFiles/Ex6c.dir/common/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Ex6c.dir/common/glad.c.s"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\common\glad.c -o CMakeFiles\Ex6c.dir\common\glad.c.s
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\common\glad.c -o CMakeFiles\Ex6c.dir\common\glad.c.s
 
 # Object files for target Ex6c
 Ex6c_OBJECTS = \
@@ -117,7 +117,7 @@ Ex6c.exe: _deps/glm-build/glm/libglm.a
 Ex6c.exe: CMakeFiles/Ex6c.dir/linkLibs.rsp
 Ex6c.exe: CMakeFiles/Ex6c.dir/objects1.rsp
 Ex6c.exe: CMakeFiles/Ex6c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Ex6c.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Ex6c.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ex6c.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,6 +129,6 @@ CMakeFiles/Ex6c.dir/clean:
 .PHONY : CMakeFiles/Ex6c.dir/clean
 
 CMakeFiles/Ex6c.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles\Ex6c.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles\Ex6c.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Ex6c.dir/depend
 

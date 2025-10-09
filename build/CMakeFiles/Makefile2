@@ -53,10 +53,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG
+CMAKE_SOURCE_DIR = C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build
+CMAKE_BINARY_DIR = C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -226,14 +226,14 @@ CMakeFiles/HelloTriangle.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/HelloTriangle.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=34,35,36 "Built target HelloTriangle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=34,35,36 "Built target HelloTriangle"
 .PHONY : CMakeFiles/HelloTriangle.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HelloTriangle.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/HelloTriangle.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/HelloTriangle.dir/rule
 
 # Convenience name for target.
@@ -243,7 +243,7 @@ HelloTriangle: CMakeFiles/HelloTriangle.dir/rule
 # codegen rule for target.
 CMakeFiles/HelloTriangle.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloTriangle.dir\build.make CMakeFiles/HelloTriangle.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=34,35,36 "Finished codegen for target HelloTriangle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=34,35,36 "Finished codegen for target HelloTriangle"
 .PHONY : CMakeFiles/HelloTriangle.dir/codegen
 
 # clean rule for target.
@@ -259,14 +259,14 @@ CMakeFiles/Ex5.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex5.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=1,2,3 "Built target Ex5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=1,2,3 "Built target Ex5"
 .PHONY : CMakeFiles/Ex5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex5.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex5.dir/rule
 
 # Convenience name for target.
@@ -276,7 +276,7 @@ Ex5: CMakeFiles/Ex5.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=1,2,3 "Finished codegen for target Ex5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=1,2,3 "Finished codegen for target Ex5"
 .PHONY : CMakeFiles/Ex5.dir/codegen
 
 # clean rule for target.
@@ -292,14 +292,14 @@ CMakeFiles/Ex8.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex8.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=19,20,21 "Built target Ex8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=19,20,21 "Built target Ex8"
 .PHONY : CMakeFiles/Ex8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex8.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex8.dir/rule
 
 # Convenience name for target.
@@ -309,7 +309,7 @@ Ex8: CMakeFiles/Ex8.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex8.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=19,20,21 "Finished codegen for target Ex8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=19,20,21 "Finished codegen for target Ex8"
 .PHONY : CMakeFiles/Ex8.dir/codegen
 
 # clean rule for target.
@@ -325,14 +325,14 @@ CMakeFiles/Ex6.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex6.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=4,5,6 "Built target Ex6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=4,5,6 "Built target Ex6"
 .PHONY : CMakeFiles/Ex6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex6.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex6.dir/rule
 
 # Convenience name for target.
@@ -342,7 +342,7 @@ Ex6: CMakeFiles/Ex6.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex6.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=4,5,6 "Finished codegen for target Ex6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=4,5,6 "Finished codegen for target Ex6"
 .PHONY : CMakeFiles/Ex6.dir/codegen
 
 # clean rule for target.
@@ -358,14 +358,14 @@ CMakeFiles/Ex6a.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex6a.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=7,8,9 "Built target Ex6a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=7,8,9 "Built target Ex6a"
 .PHONY : CMakeFiles/Ex6a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex6a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex6a.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex6a.dir/rule
 
 # Convenience name for target.
@@ -375,7 +375,7 @@ Ex6a: CMakeFiles/Ex6a.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex6a.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6a.dir\build.make CMakeFiles/Ex6a.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=7,8,9 "Finished codegen for target Ex6a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=7,8,9 "Finished codegen for target Ex6a"
 .PHONY : CMakeFiles/Ex6a.dir/codegen
 
 # clean rule for target.
@@ -391,14 +391,14 @@ CMakeFiles/Ex6c.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex6c.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=10,11,12 "Built target Ex6c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=10,11,12 "Built target Ex6c"
 .PHONY : CMakeFiles/Ex6c.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex6c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex6c.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex6c.dir/rule
 
 # Convenience name for target.
@@ -408,7 +408,7 @@ Ex6c: CMakeFiles/Ex6c.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex6c.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6c.dir\build.make CMakeFiles/Ex6c.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=10,11,12 "Finished codegen for target Ex6c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=10,11,12 "Finished codegen for target Ex6c"
 .PHONY : CMakeFiles/Ex6c.dir/codegen
 
 # clean rule for target.
@@ -424,14 +424,14 @@ CMakeFiles/Ex6d.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex6d.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=13,14,15 "Built target Ex6d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=13,14,15 "Built target Ex6d"
 .PHONY : CMakeFiles/Ex6d.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex6d.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex6d.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex6d.dir/rule
 
 # Convenience name for target.
@@ -441,7 +441,7 @@ Ex6d: CMakeFiles/Ex6d.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex6d.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6d.dir\build.make CMakeFiles/Ex6d.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=13,14,15 "Finished codegen for target Ex6d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=13,14,15 "Finished codegen for target Ex6d"
 .PHONY : CMakeFiles/Ex6d.dir/codegen
 
 # clean rule for target.
@@ -457,14 +457,14 @@ CMakeFiles/Ex7.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex7.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=16,17,18 "Built target Ex7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=16,17,18 "Built target Ex7"
 .PHONY : CMakeFiles/Ex7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex7.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex7.dir/rule
 
 # Convenience name for target.
@@ -474,7 +474,7 @@ Ex7: CMakeFiles/Ex7.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex7.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=16,17,18 "Finished codegen for target Ex7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=16,17,18 "Finished codegen for target Ex7"
 .PHONY : CMakeFiles/Ex7.dir/codegen
 
 # clean rule for target.
@@ -490,14 +490,14 @@ CMakeFiles/Ex9.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Ex9.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=22,23,24 "Built target Ex9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=22,23,24 "Built target Ex9"
 .PHONY : CMakeFiles/Ex9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex9.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Ex9.dir/rule
 
 # Convenience name for target.
@@ -507,7 +507,7 @@ Ex9: CMakeFiles/Ex9.dir/rule
 # codegen rule for target.
 CMakeFiles/Ex9.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=22,23,24 "Finished codegen for target Ex9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=22,23,24 "Finished codegen for target Ex9"
 .PHONY : CMakeFiles/Ex9.dir/codegen
 
 # clean rule for target.
@@ -523,14 +523,14 @@ CMakeFiles/HelloOrtho.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/HelloOrtho.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=31,32,33 "Built target HelloOrtho"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=31,32,33 "Built target HelloOrtho"
 .PHONY : CMakeFiles/HelloOrtho.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HelloOrtho.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/HelloOrtho.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/HelloOrtho.dir/rule
 
 # Convenience name for target.
@@ -540,7 +540,7 @@ HelloOrtho: CMakeFiles/HelloOrtho.dir/rule
 # codegen rule for target.
 CMakeFiles/HelloOrtho.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HelloOrtho.dir\build.make CMakeFiles/HelloOrtho.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=31,32,33 "Finished codegen for target HelloOrtho"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=31,32,33 "Finished codegen for target HelloOrtho"
 .PHONY : CMakeFiles/HelloOrtho.dir/codegen
 
 # clean rule for target.
@@ -556,14 +556,14 @@ CMakeFiles/Exercicio5.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Exercicio5.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=25,26,27 "Built target Exercicio5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=25,26,27 "Built target Exercicio5"
 .PHONY : CMakeFiles/Exercicio5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Exercicio5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Exercicio5.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Exercicio5.dir/rule
 
 # Convenience name for target.
@@ -573,7 +573,7 @@ Exercicio5: CMakeFiles/Exercicio5.dir/rule
 # codegen rule for target.
 CMakeFiles/Exercicio5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio5.dir\build.make CMakeFiles/Exercicio5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=25,26,27 "Finished codegen for target Exercicio5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=25,26,27 "Finished codegen for target Exercicio5"
 .PHONY : CMakeFiles/Exercicio5.dir/codegen
 
 # clean rule for target.
@@ -589,14 +589,14 @@ CMakeFiles/Exercicio6.dir/all: _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 CMakeFiles/Exercicio6.dir/all: _deps/glm-build/glm/CMakeFiles/glm.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=28,29,30 "Built target Exercicio6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=28,29,30 "Built target Exercicio6"
 .PHONY : CMakeFiles/Exercicio6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Exercicio6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Exercicio6.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : CMakeFiles/Exercicio6.dir/rule
 
 # Convenience name for target.
@@ -606,7 +606,7 @@ Exercicio6: CMakeFiles/Exercicio6.dir/rule
 # codegen rule for target.
 CMakeFiles/Exercicio6.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercicio6.dir\build.make CMakeFiles/Exercicio6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=28,29,30 "Finished codegen for target Exercicio6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=28,29,30 "Finished codegen for target Exercicio6"
 .PHONY : CMakeFiles/Exercicio6.dir/codegen
 
 # clean rule for target.
@@ -621,14 +621,14 @@ CMakeFiles/Exercicio6.dir/clean:
 _deps/glfw-build/CMakeFiles/uninstall.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\CMakeFiles\uninstall.dir\build.make _deps/glfw-build/CMakeFiles/uninstall.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\CMakeFiles\uninstall.dir\build.make _deps/glfw-build/CMakeFiles/uninstall.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num= "Built target uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num= "Built target uninstall"
 .PHONY : _deps/glfw-build/CMakeFiles/uninstall.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/glfw-build/CMakeFiles/uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/glfw-build/CMakeFiles/uninstall.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : _deps/glfw-build/CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
@@ -638,7 +638,7 @@ uninstall: _deps/glfw-build/CMakeFiles/uninstall.dir/rule
 # codegen rule for target.
 _deps/glfw-build/CMakeFiles/uninstall.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\CMakeFiles\uninstall.dir\build.make _deps/glfw-build/CMakeFiles/uninstall.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num= "Finished codegen for target uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num= "Finished codegen for target uninstall"
 .PHONY : _deps/glfw-build/CMakeFiles/uninstall.dir/codegen
 
 # clean rule for target.
@@ -653,14 +653,14 @@ _deps/glfw-build/CMakeFiles/uninstall.dir/clean:
 _deps/glfw-build/src/CMakeFiles/glfw.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\glfw.dir\build.make _deps/glfw-build/src/CMakeFiles/glfw.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\glfw.dir\build.make _deps/glfw-build/src/CMakeFiles/glfw.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58 "Built target glfw"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58 "Built target glfw"
 .PHONY : _deps/glfw-build/src/CMakeFiles/glfw.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/glfw-build/src/CMakeFiles/glfw.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 22
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 22
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/glfw-build/src/CMakeFiles/glfw.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : _deps/glfw-build/src/CMakeFiles/glfw.dir/rule
 
 # Convenience name for target.
@@ -670,7 +670,7 @@ glfw: _deps/glfw-build/src/CMakeFiles/glfw.dir/rule
 # codegen rule for target.
 _deps/glfw-build/src/CMakeFiles/glfw.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\glfw.dir\build.make _deps/glfw-build/src/CMakeFiles/glfw.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58 "Finished codegen for target glfw"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58 "Finished codegen for target glfw"
 .PHONY : _deps/glfw-build/src/CMakeFiles/glfw.dir/codegen
 
 # clean rule for target.
@@ -685,14 +685,14 @@ _deps/glfw-build/src/CMakeFiles/glfw.dir/clean:
 _deps/glfw-build/src/CMakeFiles/update_mappings.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\update_mappings.dir\build.make _deps/glfw-build/src/CMakeFiles/update_mappings.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\update_mappings.dir\build.make _deps/glfw-build/src/CMakeFiles/update_mappings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=61 "Built target update_mappings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=61 "Built target update_mappings"
 .PHONY : _deps/glfw-build/src/CMakeFiles/update_mappings.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/glfw-build/src/CMakeFiles/update_mappings.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/glfw-build/src/CMakeFiles/update_mappings.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : _deps/glfw-build/src/CMakeFiles/update_mappings.dir/rule
 
 # Convenience name for target.
@@ -702,7 +702,7 @@ update_mappings: _deps/glfw-build/src/CMakeFiles/update_mappings.dir/rule
 # codegen rule for target.
 _deps/glfw-build/src/CMakeFiles/update_mappings.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps\glfw-build\src\CMakeFiles\update_mappings.dir\build.make _deps/glfw-build/src/CMakeFiles/update_mappings.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=61 "Finished codegen for target update_mappings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=61 "Finished codegen for target update_mappings"
 .PHONY : _deps/glfw-build/src/CMakeFiles/update_mappings.dir/codegen
 
 # clean rule for target.
@@ -717,14 +717,14 @@ _deps/glfw-build/src/CMakeFiles/update_mappings.dir/clean:
 _deps/glm-build/glm/CMakeFiles/glm.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps\glm-build\glm\CMakeFiles\glm.dir\build.make _deps/glm-build/glm/CMakeFiles/glm.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps\glm-build\glm\CMakeFiles\glm.dir\build.make _deps/glm-build/glm/CMakeFiles/glm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=59,60 "Built target glm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=59,60 "Built target glm"
 .PHONY : _deps/glm-build/glm/CMakeFiles/glm.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/glm-build/glm/CMakeFiles/glm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/glm-build/glm/CMakeFiles/glm.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles 0
 .PHONY : _deps/glm-build/glm/CMakeFiles/glm.dir/rule
 
 # Convenience name for target.
@@ -734,7 +734,7 @@ glm: _deps/glm-build/glm/CMakeFiles/glm.dir/rule
 # codegen rule for target.
 _deps/glm-build/glm/CMakeFiles/glm.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps\glm-build\glm\CMakeFiles\glm.dir\build.make _deps/glm-build/glm/CMakeFiles/glm.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Marcelo\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=59,60 "Finished codegen for target glm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\marce\Documents\GitHub\ProjetosFundamentosCG\build\CMakeFiles --progress-num=59,60 "Finished codegen for target glm"
 .PHONY : _deps/glm-build/glm/CMakeFiles/glm.dir/codegen
 
 # clean rule for target.

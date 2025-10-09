@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/common/glad.c" "CMakeFiles/Exercicio6.dir/common/glad.c.obj" "gcc" "CMakeFiles/Exercicio6.dir/common/glad.c.obj.d"
-  "C:/Users/Marcelo/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio6.cpp" "CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj" "gcc" "CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj.d"
+  "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/common/glad.c" "CMakeFiles/Exercicio6.dir/common/glad.c.obj" "gcc" "CMakeFiles/Exercicio6.dir/common/glad.c.obj.d"
+  "C:/Users/marce/Documents/GitHub/ProjetosFundamentosCG/src/Exercicios/Lista2/Exercicio6.cpp" "CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj" "gcc" "CMakeFiles/Exercicio6.dir/src/Exercicios/Lista2/Exercicio6.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
